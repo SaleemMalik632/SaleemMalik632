@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saleem Malik</h1>
+
 # 💫 About Me:
+
 🔭 I’m currently working on Machine Learning.<br>🌱 I’m currently learning Multi-Head and Vision Attention.<br>💬 Feel free to ask me about anything related to AI and Machine Learning.<br>🚀 I am a dedicated self-learner with a passion for technology.<br>📫 You can reach me at: saleemmalik444@gmail.com<br>⚡ Always eager to learn new things and explore innovative solutions.<br>
 
 
